@@ -63,7 +63,7 @@ class Contact extends Component {
                   </div>
 
                   <div>
-                    <label htmlFor="contactSubject">Subject</label>
+                    <label htmlFor="contactmessage">Message</label>
                     <input
                       type="text"
                       defaultValue=""
@@ -74,7 +74,7 @@ class Contact extends Component {
                     />
                   </div>
 
-                  <div>
+                  {/* <div>
                     <label htmlFor="contactMessage">
                       Message <span className="required">*</span>
                     </label>
@@ -84,7 +84,7 @@ class Contact extends Component {
                       id="contactMessage"
                       name="contactMessage"
                     ></textarea>
-                  </div>
+                  </div> */}
 
                   <div>
                     <button className="submit">Submit</button>
@@ -117,7 +117,7 @@ class Contact extends Component {
                 </p>
               </div>
 
-              <div className="widget widget_tweets">
+              {/* <div className="widget widget_tweets">
                 <h4 className="widget-title">Latest Tweets</h4>
                 <ul id="twitter">
                   <li>
@@ -144,7 +144,7 @@ class Contact extends Component {
                     </b>
                   </li>
                 </ul>
-              </div>
+              </div> */}
             </aside>
           </Slide>
         </div>
