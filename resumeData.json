@@ -1,0 +1,92 @@
+{
+  "main": {
+    "name":"REHEMA MWAKA",
+    "description":"I am Student @ MMUST Kenya. I love coding , and I aspire to become a great developer. I currently code every day. I am a Full Stack Javascript developer",
+    "image":"profilepic.jpg",
+    "bio":"I can work on both the front-end and the back-end of any application. I am also experienced with building scalable projects, and managing large code bases. Currently, I am a student at Masinde Muliro University of Science and Technology. On my spare time I work on various different projects to build my skills and continue learning..",
+    "email": "mwakabayah@gmail.com",
+    "phone": "+254794063322",
+    "github":"https://github.com/TekyRey",
+    "project":"https://github.com/TekyRey",
+    "address":{
+      "street":"(Kakamega)",
+      "city":"(Nairobi)",
+      "state":"(Kenya)"
+      
+    },
+    "website": "http://www.rehemamwaka.io",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/RehemaMwaka1",
+        "className":"fa fa-twitter"
+      },
+      
+     
+      {
+        "name":"github",
+        "url":"https://github.com/TekyRey",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"Masinde Muliro University of Science and Technology",
+        "degree":"Bachelor of Science in Information Technology",
+        "graduation Year":"2022",
+        "description":"I have acquired major skills in school that is programming in Java, C, C++, Javascript. In my third year i developed a system that automaticaly generates the university timetable using Genetic Algorithms as my project. This system was in Java and ReactJs ."
+      }
+     
+    ],
+    "work":[
+      {
+        "company":"Automata Systems Kenya",
+        "title":"Software Developer",
+        "years":"March 2021 - present",
+        "description":"Build scalable Applications using ReactJs, Typescript, Nodejs"
+      },
+      {
+        "company":"Gustonera",
+        "title":"Software developer",
+        "years":"November 2019 - present",
+        "description":"I work as a software developer, developing applications using ReactJs, Php and Nodejs"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Javascript",
+        "level":"80%"
+      },
+      
+      {
+        "name":"ReactJs",
+        "level":"80%"
+      },
+      {
+        "name": "Typescript",
+        "level": "50%"
+      },
+      {
+        "name": "Mysql",
+        "level": "90%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"PHP",
+        "level":"30%"
+      },
+      
+      {
+        "name":"JAVA",
+        "level":"50%"
+      }
+    ]
+  }
+  
+}
