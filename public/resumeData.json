@@ -1,7 +1,7 @@
 {
   "main": {
     "name":"REHEMA MWAKA",
-    "description":"I am Student @ MMUST Kenya. I love coding , and I aspire to become a great developer. I currently code every day. I am a Full Stack Javascript developer",
+    "description":"I am Software developer from Kenya. I love coding , and I aspire to become a great developer. I currently code every day. I am a Full Stack Javascript developer",
     "image":"profilepic.jpg",
     "bio":"I can work on both the front-end and the back-end of any application. I am also experienced with building scalable projects, and managing large code bases. Currently, I am a student at Masinde Muliro University of Science and Technology. On my spare time I work on various different projects to build my skills and continue learning..",
     "email": "mwakabayah@gmail.com",
@@ -36,8 +36,7 @@
       {
         "school":"Masinde Muliro University of Science and Technology",
         "degree":"Bachelor of Science in Information Technology",
-        "graduation Year":"2022",
-        "description":"I have acquired major skills in school that is programming in Java, C, C++, Javascript. In my third year i developed a system that automaticaly generates the university timetable using Genetic Algorithms as my project. This system was in Java and ReactJs ."
+        "description":"I have acquired major skills in school that is programming in Java, C, C++, Javascript."
       }
      
     ],
@@ -47,13 +46,8 @@
         "title":"Software Developer",
         "years":"March 2021 - present",
         "description":"Build scalable Applications using ReactJs, Typescript, Nodejs"
-      },
-      {
-        "company":"Gustonera",
-        "title":"Software developer",
-        "years":"November 2019 - present",
-        "description":"I work as a software developer, developing applications using ReactJs, Php and Nodejs"
       }
+      
     ],
     "skills":[
       {
@@ -67,7 +61,7 @@
       },
       {
         "name": "Typescript",
-        "level": "50%"
+        "level": "60%"
       },
       {
         "name": "Mysql",
